@@ -3,7 +3,7 @@ public class Hello{
 		System.out.println("Hello Java");
 		System.out.println("hello");
 		System.out.println("hello");
-		System.out.println("hello");
+		System.out.println("helli");
 		System.out.println("hello");
 	}
 }
