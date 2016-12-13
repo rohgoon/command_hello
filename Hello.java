@@ -6,5 +6,6 @@ public class Hello{
 		System.out.println("helli");
 		System.out.println("hello");
 		System.out.println("Local write");
+		System.out.println("github write");
 	}
 }
